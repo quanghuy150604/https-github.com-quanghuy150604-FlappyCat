@@ -1,0 +1,3 @@
+D:\Lt\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
+D:\Lt\FlappyCat!!!\x64\Debug\FlappyCat.exe
+D:\Lt\FlappyCat\x64\Debug\FlappyCat.exe
